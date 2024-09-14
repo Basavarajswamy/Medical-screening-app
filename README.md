@@ -94,11 +94,3 @@ router.post('/image', upload.single('image'), async (req, res) => {
 
 ## Conclusion
 This project provides a complete web-based system for managing patient information, capturing images, and uploading diagnosis reports. With a scalable architecture, secure data handling, and responsive design, it enables smooth interaction between operators and doctors for medical diagnosis.
-
-Source: Conversation with Copilot, 14/9/2024
-(1) GitHub - andrelimzs/screening-app: Medical screening app for remote .... https://github.com/andrelimzs/screening-app.
-(2) How to Write a Good README File for Your GitHub Project. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
-(3) Covid-19-Screening-App/README.md at main - GitHub. https://github.com/Grimmer107/Covid-19-Screening-App/blob/main/README.md.
-(4) undefined. https://chocolatey.org/install.
-(5) undefined. https://www.meteor.com/install.
-(6) undefined. https://guide.meteor.com/deployment.html.
